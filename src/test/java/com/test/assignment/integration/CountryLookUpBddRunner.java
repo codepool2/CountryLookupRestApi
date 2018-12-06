@@ -8,8 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         glue = {"com.test.assignment.integration"},
-        features = {"classpath:features"},
-        plugin = {"pretty", "html:cucumber-reports"}
+        features = {"classpath:features"}
 )
 public class CountryLookUpBddRunner {
 }

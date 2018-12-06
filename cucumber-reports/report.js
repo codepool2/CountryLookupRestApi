@@ -125,7 +125,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_gives_the_following(String)"
 });
 formatter.result({
-  "duration": 2062299112,
+  "duration": 28707470138,
   "status": "passed"
 });
 formatter.match({
@@ -138,7 +138,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_name_as(String)"
 });
 formatter.result({
-  "duration": 115127059,
+  "duration": 291992550,
   "status": "passed"
 });
 formatter.match({
@@ -151,7 +151,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_code_as(String)"
 });
 formatter.result({
-  "duration": 584401,
+  "duration": 1863082,
   "status": "passed"
 });
 formatter.scenario({
@@ -196,7 +196,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_gives_the_following(String)"
 });
 formatter.result({
-  "duration": 86000570,
+  "duration": 135560661,
   "status": "passed"
 });
 formatter.match({
@@ -209,7 +209,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_name_as(String)"
 });
 formatter.result({
-  "duration": 429245,
+  "duration": 402681,
   "status": "passed"
 });
 formatter.match({
@@ -222,7 +222,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_code_as(String)"
 });
 formatter.result({
-  "duration": 405700,
+  "duration": 455809,
   "status": "passed"
 });
 formatter.scenario({
@@ -267,7 +267,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_gives_the_following(String)"
 });
 formatter.result({
-  "duration": 72363734,
+  "duration": 109708131,
   "status": "passed"
 });
 formatter.match({
@@ -280,7 +280,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_name_as(String)"
 });
 formatter.result({
-  "duration": 468487,
+  "duration": 484788,
   "status": "passed"
 });
 formatter.match({
@@ -293,7 +293,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_code_as(String)"
 });
 formatter.result({
-  "duration": 391814,
+  "duration": 426831,
   "status": "passed"
 });
 formatter.scenario({
@@ -338,7 +338,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_gives_the_following(String)"
 });
 formatter.result({
-  "duration": 55853190,
+  "duration": 224951174,
   "status": "passed"
 });
 formatter.match({
@@ -351,7 +351,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_name_as(String)"
 });
 formatter.result({
-  "duration": 449771,
+  "duration": 392418,
   "status": "passed"
 });
 formatter.match({
@@ -364,7 +364,7 @@ formatter.match({
   "location": "CountryLookupStepDefs.the_user_should_get_the_country_code_as(String)"
 });
 formatter.result({
-  "duration": 740765,
+  "duration": 761896,
   "status": "passed"
 });
 });
